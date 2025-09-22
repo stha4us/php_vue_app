@@ -1,2 +1,2 @@
-# flask_server
-Setup a server using python flask module.
+# Php Vue based app
+Setup web app using php and vue js.
